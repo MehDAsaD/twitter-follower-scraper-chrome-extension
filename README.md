@@ -43,11 +43,11 @@ This Chrome extension scrapes followers from a target Twitter page. Simply open 
 
 2. You will see that the followers are being extracted.
 
-   ![Screenshot 2](screenshot/extension–2.png)
+   ![Screenshot 2](screenshot/extension-2.png)
 
 3. The follower information is automatically saved in the Downloads folder on your system.
 
-   ![Screenshot 3](screenshot/extension–3.png)
+   ![Screenshot 3](screenshot/extension-3.png)
 
 
 ### Product Link
