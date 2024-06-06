@@ -50,4 +50,9 @@ This Chrome extension scrapes followers from a target Twitter page. Simply open 
    ![Screenshot 3](screenshot/extension–3.png)
 
 
+### Product Link
+
+This extension is part of the Virtual User Twitter Follower Booster Bot Package. For more information about this package, please visit [the product page on the Virtual User website.](https://www.v-user.com/en/side-products/increase-twitter-followers-bot)
+
+
 #TwitterScraper #ChromeExtension #DataExtraction #WebScraping #JavaScript #TwitterFollowerScraperChromeExtension #TwitterFollowerScraperExtension #FollowerScraper
